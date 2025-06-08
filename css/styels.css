@@ -406,7 +406,6 @@ a
 .jack
 {   
     background: url(../images/banner-1.jpg);
-    background-size: contain;
     background-size:cover;
     background-repeat: no-repeat;
     text-align: center;
