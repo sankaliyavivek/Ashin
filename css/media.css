@@ -1,0 +1,121 @@
+@media(max-width:1000px)
+{
+  .first,
+  .second,
+  .girl,
+  .summer{
+    width: 100%;
+  }
+  .j{
+    width: 33%;
+  }
+
+  .div p{
+    left: 20%;
+    top: 5%;
+  }
+
+  .div,
+  .free,
+  .d{
+    width: 50%;
+  }
+
+
+
+
+}
+
+@media(max-width:800px)
+{
+
+.j{
+  width: 50%;
+}
+
+.trend 
+  {
+    width: 100%;
+  }
+  .product li{
+    padding-right: 5px;
+}
+
+.summer{
+  padding:20px ;
+}
+.main{
+  padding: 20px;
+}
+
+.dis
+{
+  gap: 20px;
+}
+
+.num
+{
+    padding: 0px;
+}
+.num h2 
+{
+    display: inline;
+    padding-right: 0px;
+}
+
+
+.cont
+{
+    padding: 30px;
+}
+
+.free{
+  justify-content: center;
+}
+.product{
+  display: flex;
+}
+
+}
+
+@media(max-width:500px)
+
+{
+
+  .free{
+  justify-content: start;
+}
+  .product li
+{
+  padding: 0px;
+  margin-bottom: 10px;
+    display: block;
+  }
+  .nav .list
+  {
+    display: none;
+  }
+
+  .man,
+  .div,
+  .free,
+  .j,
+  .d{
+    width: 100%;
+  }
+
+  .trend 
+  {
+    width: 100%;
+  }
+
+ .jack h1
+{
+    font-size: 30px;
+    margin: 10px 0px 10px 0px;
+    font-family: cursive;
+}
+}
+
+
+
